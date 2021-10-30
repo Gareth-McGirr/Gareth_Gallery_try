@@ -207,12 +207,22 @@ label:hover{
     position: absolute;
     transition: .5s;
 }
-img:hover{
-    transform: scale(3);
-    
-    z-index: 2;
+/* img:hover{
+    transform: scale(1.2);
     
 }
+
+.pic:hover {
+    
+    position:relative;
+    
+    max-width: 100%;
+    align-self: center;
+    height:auto;
+    display:block;
+    z-index:999;
+    
+} */
 
 
 
